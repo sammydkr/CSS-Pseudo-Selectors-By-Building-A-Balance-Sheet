@@ -1,0 +1,9 @@
+table caption {
+  color: #356eaf;
+  font-size: 1.3em;
+  font-weight: normal;
+  top:-2.25rem;
+  position:absolute;
+  left:0.5rem;
+
+}
