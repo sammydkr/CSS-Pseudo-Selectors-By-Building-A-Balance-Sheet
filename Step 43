@@ -1,0 +1,5 @@
+#years span[class] {
+  width:4.5rem;
+  font-weight:bold;
+  text-align:right;
+}
